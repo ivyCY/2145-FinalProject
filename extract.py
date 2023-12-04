@@ -1,6 +1,6 @@
 import os
 
-filePath = "D:/学/研/22 Fall/INFSCI 2125/project/citespace/input/"
+filePath = "" //Path of dataset
 SaveList = []
 flag = False
 files = os.listdir(filePath)
