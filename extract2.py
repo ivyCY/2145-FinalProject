@@ -1,4 +1,4 @@
-filePath = "D:/学/研/23 Fall/INFSCI 2415/output.txt"
+filePath = "" // Path of the output of extract.py
 SaveList = []
 
 with open(filePath, "r") as f:
