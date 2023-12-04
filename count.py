@@ -1,6 +1,6 @@
 import csv
 
-filePath = "D:/学/研/23 Fall/INFSCI 2415/output0.txt"
+filePath = "" //Path of extract2.py
 SaveList = []
 dic = {}
 
